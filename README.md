@@ -69,6 +69,8 @@ Use the command deactivate to deactivate the virtual environment.
 
 #### Install Django on your machine using the command -
 ```pip install django```
+### If you are using bootstrap with Django , first run the following command
+```pip install django-bootstrap4```
 
 #### Run the following command in terminal to clone the Repository in your local machine  
 `git clone https://github.com/MSTC-DA-IICT/HacktoberFest23-Django-SportChat-WebApp.git`  
