@@ -97,6 +97,6 @@ Happy Developing! :innocent:
 ---
   
 ### 🔗 Connect with us
-Get in touch with us on [LinkedIn](https://www.linkedin.com/in/microsoft-student-technical-club-daiict/) / [Instagram](https://www.instagram.com/mstc.daiict/)
+Get in touch with us on [LinkedIn](https://www.linkedin.com/company/microsoft-student-technical-club-da-iict/) / [Instagram](https://www.instagram.com/mstc.daiict/)
 
 Write to us at microsoftclub@daiict.ac.in
