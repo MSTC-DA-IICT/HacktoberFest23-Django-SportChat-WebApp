@@ -78,7 +78,7 @@
               <p>Password must match and should contain atleat one alphabet , one digit , one special character and length should be atleast three</p>
               <form action="register" method="POST"  enctype="multipart/form-data">
                 <input type="hidden" name="csrfmiddlewaretoken" value="ArC70U5LCPQxxBhVo1GVeuxawK6pgAmFhz86fwk6eTUHQlebGs22VQuuiNTzArT5">
-               
+                {% csrf_token %}
 
                 <div class="form-outline mb-4">
                   Email address
